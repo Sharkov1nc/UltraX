@@ -1,4 +1,4 @@
-let menu = $("#navbar-content");
 $(function(){
-    menu.load("b.html"); 
+    console.log("here");
+    $("#navbar-content").load("menu.html"); 
   });
